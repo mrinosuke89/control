@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "update": false,
   "message": "App is unactivated for some reason",
   "up_message": "Server upgrade in progress.",
