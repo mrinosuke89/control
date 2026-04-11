@@ -1,7 +1,7 @@
 {
   "active": true,
-  "update": false,
+  "update": true,
   "message": "App is unactivated for some reason",
-  "up_message": "Server upgrade in progress.",
+  "up_message": "New version on 6 pm",
   "version": "1.0.0"
 }
