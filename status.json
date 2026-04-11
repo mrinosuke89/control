@@ -1,6 +1,6 @@
 {
   "active": true,
-  "update": true,
+  "update": false,
   "message": "App is unactivated for some reason",
   "up_message": "New version on 6 pm",
   "version": "1.0.0"
